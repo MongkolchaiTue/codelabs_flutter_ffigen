@@ -4,5 +4,9 @@
 <dict>
 	<key>com.apple.security.app-sandbox</key>
 	<true/>
+        <!-- Add from here... -->
+        <key>com.apple.security.network.client</key>
+        <true/>
+        <!-- ...to here -->
 </dict>
 </plist>
